@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\repository\\workexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\repository\\workexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\controller\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\controller\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\controller\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\controller\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\controller\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\controller\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\manager\\workexperiencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\manager\\workexperiencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\iworkexperiencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\iworkexperiencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\iworkexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\iworkexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\repository\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\repository\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\manager\\educationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\manager\\educationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\ieducationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\ieducationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\iaplicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\iaplicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\manager\\applicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\manager\\applicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\models\\educationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\models\\educationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\models\\basicdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\models\\basicdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|c:\\users\\hp\\source\\repos\\applicationform\\applicationform\\applicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E643530-7C20-4048-A585-52FCE432C9B7}|ApplicationForm\\ApplicationForm.csproj|solutionrelative:applicationform\\applicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\WorkExperienceController.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Controller\\WorkExperienceController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\WorkExperienceController.cs",
+              "RelativeToolTip": "ApplicationForm\\Controller\\WorkExperienceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Controller\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\ApplicationController.cs",
+              "RelativeToolTip": "ApplicationForm\\Controller\\ApplicationController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:12:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\EducationController.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Controller\\EducationController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Controller\\EducationController.cs",
+              "RelativeToolTip": "ApplicationForm\\Controller\\EducationController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:50:57.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\WorkExperienceRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Repository\\WorkExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\WorkExperienceRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Repository\\WorkExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Startup.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Startup.cs",
+              "RelativeToolTip": "ApplicationForm\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:17:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Program.cs",
+              "RelativeToolTip": "ApplicationForm\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:36:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkExperienceManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\WorkExperienceManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Manager\\WorkExperienceManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\WorkExperienceManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Manager\\WorkExperienceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWorkExperienceManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IWorkExperienceManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IWorkExperienceManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IWorkExperienceManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IWorkExperienceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Repository\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\ApplicationRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Repository\\ApplicationRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:12:44.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorkExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IWorkExperienceRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IWorkExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IWorkExperienceRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IWorkExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:25.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\EducationRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Repository\\EducationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Repository\\EducationRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Repository\\EducationRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:52:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EducationManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\EducationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Manager\\EducationManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\EducationManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Manager\\EducationManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:51:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEducationManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IEducationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IEducationManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IEducationManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IEducationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:51:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAplicationManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IAplicationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IAplicationManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IAplicationManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IAplicationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:13:17.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IEducationRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IEducationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IEducationRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IEducationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:51:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\ApplicationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Manager\\ApplicationManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Manager\\ApplicationManager.cs",
+              "RelativeToolTip": "ApplicationForm\\Manager\\ApplicationManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:12:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Interface\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Interface\\IApplicationRepository.cs",
+              "RelativeToolTip": "ApplicationForm\\Interface\\IApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:13:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationForm\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:19:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkExperience.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\WorkExperience.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Models\\WorkExperience.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\WorkExperience.cs",
+              "RelativeToolTip": "ApplicationForm\\Models\\WorkExperience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:16:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EducationDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\EducationDetails.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Models\\EducationDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\EducationDetails.cs",
+              "RelativeToolTip": "ApplicationForm\\Models\\EducationDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:16:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasicDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\BasicDetails.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Models\\BasicDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\Models\\BasicDetails.cs",
+              "RelativeToolTip": "ApplicationForm\\Models\\BasicDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:16:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationForm",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\ApplicationForm.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm\\ApplicationForm.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ApplicationForm\\ApplicationForm\\ApplicationForm.csproj",
+              "RelativeToolTip": "ApplicationForm\\ApplicationForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T16:11:00.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
